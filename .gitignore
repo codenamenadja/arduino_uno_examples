@@ -20,8 +20,7 @@
 *.lib
 *.a
 *.la
-*.lo
-
+*.lo 
 # Shared objects (inc. Windows DLLs)
 *.dll
 *.so
@@ -50,3 +49,6 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+srcs/*/*/build
+srcs/*/*/build/*
