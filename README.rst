@@ -58,6 +58,8 @@ Rectifier
 Electrode
    electrical conductor used to make contact with nonmetalic part of a circuit(e.g. a semiconductor, electrolyte, vacuum, or air).
    The word was coined by William Whewell at the request of the scientist Michael Faraday from two Greek Words:
+
+      - elecktron(an amber, which electricity is derived)
       - hodos(a road)
 
 Electrical Conductor
