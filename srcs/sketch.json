@@ -1,6 +1,7 @@
 {
   "cpu": {
     "fqbn": "arduino:avr:uno",
-    "port": ""
+    "name": "Arduino Uno",
+    "port": "serial:///dev/ttyACM0"
   }
 }
